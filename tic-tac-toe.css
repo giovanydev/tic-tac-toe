@@ -1,0 +1,28 @@
+body {
+	background: teal;
+}
+
+h1 {
+	text-align: center;
+	color: pink;
+	margin-bottom: 50px;
+}
+
+table {
+	margin: auto;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.vertical {
+	border-left: 2px solid pink;
+	border-right: 2px solid pink;
+}
+
+.horizontal {
+	border-top: 2px solid pink;
+	border-bottom: 2px solid pink;
+}
